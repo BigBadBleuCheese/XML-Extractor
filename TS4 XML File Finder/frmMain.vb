@@ -32,7 +32,7 @@ Public Class frmMain
         End If
         Me.Text = "XML File Finder for The Sims 4 - v" & My.Application.Info.Version.Major & "." & My.Application.Info.Version.Minor & "." & My.Application.Info.Version.Build
         If toolstripStatusbar.Text = "" Then
-            toolstripStatusbar.Text = "XML File Finder for The Sims 4 -- by Scumbumbo @ Mod The Sims"
+            toolstripStatusbar.Text = "XML File Finder for The Sims 4 -- by Scumbumbo at scumbumbomods.com"
         End If
         txtSearchString.Focus()
     End Sub

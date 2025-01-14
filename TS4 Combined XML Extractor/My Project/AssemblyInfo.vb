@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("XML Extractor for The Sims 4")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Scumbumbo at Mod The Sims")> 
-<Assembly: AssemblyProduct("XML Extractor for The Sims 4")> 
-<Assembly: AssemblyCopyright("Copyright ©  2015")> 
+<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyCompany("Scumbumbo at scumbumbomods.com")>
+<Assembly: AssemblyProduct("XML Extractor for The Sims 4")>
+<Assembly: AssemblyCopyright("Copyright ©  2015 - 2024")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("3.6.2.0")>
-<Assembly: AssemblyFileVersion("3.6.2.0")>
+<Assembly: AssemblyVersion("4.0.0.0")>
+<Assembly: AssemblyFileVersion("4.0.0.0")>

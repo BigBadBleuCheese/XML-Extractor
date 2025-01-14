@@ -154,7 +154,7 @@ Public Class frmMain
         End If
 
         Me.Text = "XML Extractor for The Sims 4 - v" & My.Application.Info.Version.Major & "." & My.Application.Info.Version.Minor & "." & My.Application.Info.Version.Build
-        UpdateStatusbar("XML Extractor for The Sims 4 -- by Scumbumbo @ Mod The Sims")
+        UpdateStatusbar("XML Extractor for The Sims 4 -- by Scumbumbo at scumbumbomods.com")
     End Sub
 
     Private Sub ScanForLanguages(GameFolder As String)
